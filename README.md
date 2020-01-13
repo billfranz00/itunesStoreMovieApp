@@ -1,4 +1,4 @@
-# omniscience
+# Itunes Movie App
 
 ## Project setup
 ```
